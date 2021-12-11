@@ -1,4 +1,7 @@
-# Entity -  A pretty simple hobby language for a variety of uses
+# Entity -  A secure by default, multi-use and versatile programming language
+
+![image](https://user-images.githubusercontent.com/68202118/145693689-e1041018-c7a8-4d00-b3f2-a9e5005ca676.png)
+
 
 It is a simple programming language with "entities" that are run in secure enviroments with secure by default permissions to run system critical operations, plus all JS is usable too with the `use: js` header.
 
