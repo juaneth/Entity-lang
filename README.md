@@ -1,6 +1,6 @@
 # Entity -  A pretty simple hobby language for a variety of uses
 
-![image](https://user-images.githubusercontent.com/68202118/145693660-1d44f433-4f33-4e4b-957a-0b05e4929ee4.png)
+![image](https://user-images.githubusercontent.com/68202118/145693689-e1041018-c7a8-4d00-b3f2-a9e5005ca676.png)
 
 
 ## Run the interpreter ->
