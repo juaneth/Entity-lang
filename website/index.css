@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+
+.main {
+    min-width: 100vw;
+    min-height: 50vh;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(7, 84, 253);
+}

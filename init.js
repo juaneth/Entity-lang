@@ -7,8 +7,8 @@ const rl = readline.createInterface({
 });
 
 rl.question("Project Name: ", function (name) {
-    rl.question("", function (country) {
-        console.log(`${name}, is a citizen of ${country}`);
+    rl.question("Project Folder: ", function (folder) {
+        console.log(`${name}, is a citizen of ${folder}`);
         rl.close();
     });
 });
