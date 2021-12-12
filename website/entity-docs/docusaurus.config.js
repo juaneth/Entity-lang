@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://juaneth.xyz/images/entity.png',
   organizationName: 'juaneth', // Usually your GitHub org/user name.
   projectName: 'Entity', // Usually your repo name.
 
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/juaneth/Entity/edit/master/website/',
+          editUrl: 'https://github.com/juaneth/Entity/edit/master/website/entity-docs/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/juaneth/Entity/edit/master/website/entity-docs/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -46,7 +46,7 @@ const config = {
         title: 'Entity',
         logo: {
           alt: 'Entity Logo',
-          src: 'img/logo.svg',
+          src: 'https://juaneth.xyz/images/entity.png',
         },
         items: [
           {
