@@ -1,3 +1,12 @@
-run: openlink.entity
+use: js
 
-//Use this file to run, close or add inputs to entities. This is the main place where only 
+//When using JS package access to variables and other items are still available
+var door = '🚪';
+
+js(){
+    const fs = require('fs');
+
+    var file = fs.readFileSync('input.txt');
+
+    console.log(file + door);
+}
