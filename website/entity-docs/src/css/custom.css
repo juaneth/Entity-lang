@@ -17,6 +17,7 @@
 }
 
 .button--lg {
+  margin: 20px;
   background-color: #f5f5f5;
   color: white;
   transition: ease-in-out 300ms;

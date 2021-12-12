@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('../../static/img/admin.svg').default,
     description: (
       <>
-        Our permissions system makes sure there are no worries of running an application and having all your photos deleted
+        Our permissions system makes sure there are no worries of running an application and having all your files deleted.... without warning that is
       </>
     ),
   },

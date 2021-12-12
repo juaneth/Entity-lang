@@ -19,6 +19,11 @@ function HomepageHeader() {
             to="/docs/get-started">
             Get started with Entity ⚒️
           </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/get-started">
+            Examples on GitHub ⚒️
+          </Link>
         </div>
       </div>
     </header>
@@ -29,8 +34,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Entity Documentation`}
+      description="Here you can explore what Entity is, how it works and how to use it for your projects!">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
