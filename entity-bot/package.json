@@ -20,6 +20,7 @@
   },
   "homepage": "https://juaneth.xyz/entity/",
   "dependencies": {
+    "lodash": ">=4.17.21",
     "@discordjs/opus": "^0.7.0",
     "discord.js": "^13.3.1",
     "express": "^4.17.1",
