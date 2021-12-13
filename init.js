@@ -7,8 +7,12 @@ const rl = readline.createInterface({
 });
 
 rl.question("Project Name: ", function (name) {
-    rl.question("Project Folder: ", function (folder) {
-        console.log(`${name}, is a citizen of ${folder}`);
+    rl.question("Type: ", function (folder) {
+        console.log(`${name}, ${folder}`);
+
+        if(folder == "") {
+            var type = '';
+        }
         rl.close();
     });
 });
