@@ -26,6 +26,6 @@
     "fs": "0.0.1-security",
     "generate-api-key": "^1.0.0",
     "http": "^0.0.1-security",
-    "nodejs-file-downloader": "^4.7.4",
+    "nodejs-file-downloader": "^4.7.4"
   }
 }
