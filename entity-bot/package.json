@@ -20,16 +20,12 @@
   },
   "homepage": "https://juaneth.xyz/entity/",
   "dependencies": {
-    "@discordjs/opus": "^0.7.0",
+    "lodash": ">=4.17.21",
     "discord.js": "^13.3.1",
     "express": "^4.17.1",
-    "ffmpeg": "^0.0.4",
-    "ffmpeg-static": "^4.4.0",
     "fs": "0.0.1-security",
     "generate-api-key": "^1.0.0",
     "http": "^0.0.1-security",
     "nodejs-file-downloader": "^4.7.4",
-    "yt-search": "^0.1.1",
-    "ytdl-core": "^4.9.1"
   }
 }
