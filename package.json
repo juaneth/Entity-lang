@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/juaneth/Entity/issues"
   },
-  "homepage": "https://github.com/juaneth/Entity#readme"
+  "homepage": "https://github.com/juaneth/Entity#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
 }

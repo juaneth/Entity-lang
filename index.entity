@@ -1,0 +1,3 @@
+use: shell
+
+shell.write('Success!')

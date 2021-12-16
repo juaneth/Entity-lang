@@ -1,0 +1,22 @@
+{
+  "unversionedId": "get-started",
+  "id": "get-started",
+  "title": "Getting Started",
+  "description": "If you want to start learning Entity, follow this to get started with the language and how to get it set up.",
+  "source": "@site/docs/get-started.md",
+  "sourceDirName": ".",
+  "slug": "/get-started",
+  "permalink": "/docs/get-started",
+  "editUrl": "https://github.com/juaneth/Entity/edit/master/website/entity-docs/docs/get-started.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/docs/tutorial-basics/create-a-page"
+  }
+}

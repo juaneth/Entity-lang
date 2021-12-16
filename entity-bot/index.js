@@ -8,8 +8,8 @@ const fs = require('fs'); //npm i fs
 
 //This code is for reading commands on launch 
 const Status = require('./config/Status.js');
-const config = require('../bot-config/config.json');
-const prefixchecker = require('../bot-config/config.json')
+const config = require('./bot-config/config.json');
+const prefixchecker = require('./bot-config/config.json')
 const token = config.token;
 const configprefix = prefixchecker.prefix;
 client.commands = new Discord.Collection();
