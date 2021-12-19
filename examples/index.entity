@@ -1,6 +1,6 @@
 use: js
 
 //When using JS package access to variables and other objects are still available
-var door = '🚪';
+var door = '🚪'
 
 js.src('./example.js')
