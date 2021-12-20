@@ -1,3 +1,5 @@
-use: shell
+use: shell, files
 
 shell.write('Success!')
+
+var name = shell.question('What's your name?')
